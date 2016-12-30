@@ -1,0 +1,5 @@
+Read the readme file of the compression in the compression folder. The 
+decompression folder contains a stand allone application to test the 
+correctness of the decompression algorithm written for MSP430RF5969 
+microprossor. This code is power interrupts immune. Originally this code is a 
+part of Stork protocol (fast downsteam data for multi computaional RFIDs).
